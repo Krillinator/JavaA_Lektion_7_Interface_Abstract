@@ -1,6 +1,7 @@
 package com.kristoffer.interfaceAbstract.models;
 
 // Abstract Class - marked by keyword: abstract
+// Can inherit from both: Interface & Abstract classes
 // TODO - Test visibility mod
 abstract class AAnimal {
 
